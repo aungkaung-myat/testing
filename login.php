@@ -9,5 +9,6 @@
 	function sex(){
 		echo "Sex";
 	}
+echo "stash";
 
 ?>
