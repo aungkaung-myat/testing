@@ -1,6 +1,6 @@
 <?php
 
-
+echo 'stash';
 echo "Add Content";
 	echo "Add Content";
 
