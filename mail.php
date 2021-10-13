@@ -1,4 +1,5 @@
 <?php
 
-	echo "Add Content";
+echo "Add Content";
+echo "Conflict";
 ?>
