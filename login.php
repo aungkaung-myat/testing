@@ -3,4 +3,5 @@
 	function love(){
 		echo "Fuck";
 	}
+	echo "Conflict";
 ?>
