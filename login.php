@@ -3,4 +3,7 @@
 	function love(){
 		echo "Fuck";
 	}
+	function sex(){
+		echo "Sex";
+	}
 ?>
