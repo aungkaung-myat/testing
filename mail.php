@@ -2,7 +2,6 @@
 
 
 echo "Add Content";
-echo "Conflict";
 	echo "Add Content";
 
 	function mail(){
